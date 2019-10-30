@@ -1,0 +1,49 @@
+*{
+    outline: 2px;
+    /* margin: 0px; */
+    padding: 8px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    vertical-align: top;
+    /* font-size: 9pt; */
+    /* margin-right: 0px;
+    margin-left: 24px; */
+}
+/* header{
+    margin-left: 24px;
+    vertical-align: top;
+} */
+
+body{
+    vertical-align: top;
+    text-align: center;
+    background: url(../img/screencapture-1001fonts-digital-7-font-html-2019-10-26-21_31_34.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 891px;
+    margin: 350px;
+
+}
+form{
+    margin-top:200px;
+}
+.container{
+    height: 10px;
+    margin-right: 0px;
+}
+nav ul{
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 0px;
+    text-shadow: rgb(121, 103, 138);
+    /* text-underline-position: below; */
+    width: 80px;
+    font-size: 3rem;
+
+}
+header{
+    /* display: inline-block;
+    margin-left: 10px;
+    vertical-align: top; */
+    
+}
